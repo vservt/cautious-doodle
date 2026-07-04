@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "tracks": [
+    { "id": "t001", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+    { "id": "t002", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+    { "id": "t003", "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" }
+  ]
+}
